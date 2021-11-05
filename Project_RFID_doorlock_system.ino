@@ -1,10 +1,9 @@
 /* Project R.F.I.D door lock system 
  * "THE PROGRAMING IS YOUR LOGIC"
- * 2K17 Present >>> TEKNIK ELEKTRONIKA INDUSTRI
- * SMK BKM 2
+ * 2021 Present >>> TEKNIK ELEKTRONIKA INDUSTRI SMK BKM 2 <<<
  * Design Program and Mechanic by :
  * Chandra P.W.G & Wahyu Gamma Gene
- * -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ * --------------------------------
  */
 
  
